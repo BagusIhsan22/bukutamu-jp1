@@ -1,0 +1,33 @@
+.container{
+    margin-top: 80px;
+    margin-left: 320px;
+}
+
+table {
+    width: 80%;
+    border: none;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: grey;
+    border: 2px solid black;
+    margin-top: 20px;
+}
+
+th,td{
+    text-align: left;
+    padding: 10px;
+    font-size: 21px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 300px;
+}
+
+th{
+    color: rgb(16, 16, 26);
+}
+
+td{
+    color: whitesmoke;
+
+}
